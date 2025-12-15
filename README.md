@@ -63,7 +63,7 @@ If you already have an Academic Accommodation Letter, we invite you to share you
 
 # Course Information
 
-- [Course Calendar](calendar.md)
+- [Lecture Slides](calendar.md)
 - [Weekly Schedule](schedule.md)
 - [Staff](staff.md)
 

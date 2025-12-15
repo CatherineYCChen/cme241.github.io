@@ -11,9 +11,9 @@ seo:
 Welcome to the Winter 2025 edition of CME 241: Foundations of Reinforcement Learning with Applications in Finance.
 
 - Instructor: [Ashwin Rao](http://stanford.edu/~ashlearn)
-- Lectures: Wed & Fri 4:30pm-5:50pm in [Gates B12]
+- Lectures: Wed & Fri 4:30pm-5:50pm in Gates B12
 - Ashwin's Office Hours: Fri 2:30pm-4:00pm (or by appointment) in [ICME Mezzanine level, Room M05](https://campus-map.stanford.edu/?id=04-080)
-- Course Assistant (CA): [Catherine Chen]([https://icme.stanford.edu/people/catherine-chen])
+- Course Assistant (CA): [Catherine Chen](https://icme.stanford.edu/people/catherine-chen)
 - Catherine's Office Hours: Tuesday & Thursday 1:00-2:30 PM in Huang Basement
 
 ## Table of contents
